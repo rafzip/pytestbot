@@ -1,0 +1,3 @@
+pyrebuilt/
+.venv/
+__pycache__/
